@@ -8,7 +8,7 @@ Instead of storing long-term AWS Access Keys inside GitHub Secrets, GitHub Actio
 
 ```bash
 export AWS_REGION="ap-southeast-1"
-export GITHUB_USER="thaunghtike-share" 
+export GITHUB_USER="KyawZin-index99" 
 export GITHUB_REPO="ecs-github-actions"
 export ROLE_NAME="github-actions-ecs-role"
 
